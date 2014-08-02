@@ -1,9 +1,4 @@
-venv
-world
-logs
-server.log
-banned-players.txt
-banned-ips.txt
-ops.txt
-white-list.txt
-server.properties
+lib
+bin/connect.js
+node_modules
+npm-debug.log
