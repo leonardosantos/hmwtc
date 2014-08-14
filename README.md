@@ -8,7 +8,7 @@ Now you can connect to a minecraft server running on heroku without cloning all 
 1. Install
 
    ```
-   npm install
+   npm install hmwtc
    ```
 
 2. Run the proxy service. This will proxy the Minecraft server on Heroku to your local machine. The server will appear to be a Minecraft server running on your local machine.

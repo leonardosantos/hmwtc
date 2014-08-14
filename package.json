@@ -1,6 +1,6 @@
 {
   "name": "hmwtc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "heroku-minecraft-websocket-tunnel-client",
   "bin": "bin/hmwtc",
   "scripts": {
